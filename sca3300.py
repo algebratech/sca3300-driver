@@ -32,8 +32,6 @@ import spidev
 
 from utils.constant import Constant
 
-__VERSION__ = "0.0.1"
-
 _STANDARD_GRAVITY = 9.80665  # m/s^2
 
 # 32 bit SPI commands to interact with device
