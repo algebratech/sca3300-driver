@@ -7,7 +7,7 @@
 
 ## Installation 
 #### PyPi
-Will be released soon!
+[https://pypi.org/project/sca3300/](https://pypi.org/project/sca3300/)
 #### From Source 
 * Clone repo `git clone https://github.com/algebratech/sca3300-driver`
 * Install `python3 setup.py install --user`
